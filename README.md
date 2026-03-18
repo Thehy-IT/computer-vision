@@ -46,5 +46,17 @@ jupyter notebook
 ```
 Sau đó, chọn file `Lab1.ipynb` từ trình duyệt hiện ra.
 
+## Bảng Đánh Giá Tiến Độ
+
+| STT | Tên | MSSV | Đánh giá tiến độ |
+|:---:|:---|:---:|:---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+
 ---
 *Chúc bạn học tập tốt!*
