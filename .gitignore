@@ -12,6 +12,12 @@ venv.bak/
 
 # Python
 __pycache__/
+
+# Data Processing Outputs
+data/processed/
+data/final_reports/
+data/reports/
+
 *.py[cod]
 *$py.class
 *.so
