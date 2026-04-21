@@ -18,7 +18,7 @@ data/processed/
 data/final_reports/
 data/reports/
 data/caltech101
-data/images/
+#data/images/
 
 *.py[cod]
 *$py.class
