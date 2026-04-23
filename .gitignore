@@ -15,7 +15,7 @@ __pycache__/
 
 # Data Processing Outputs
 data/processed/
-#data/final_reports/
+data/registered_faces/
 data/caltech101
 
 *.py[cod]
