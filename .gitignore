@@ -16,6 +16,10 @@ __pycache__/
 # Data Processing Outputs
 data/processed/
 data/registered_faces/
+data/faceID/
+data/input/
+data/attendance_log.csv
+data/face_database.pkl
 data/caltech101
 
 *.py[cod]
